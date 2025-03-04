@@ -1,0 +1,5 @@
+- Website portofolio pribadi responsif nganggo HTML, CSS, sareng JavaScript.
+- Ngandung animasi nalika di-scroll.
+- Transisi mulus di unggal bagian.
+- Dikembangkeun heula ku metodologi 'Mobile First', teras pikeun desktop.
+- Kompatibel sareng sadaya alat seluler sareng antarmuka pangguna anu éndah sareng pikaresepeun.
